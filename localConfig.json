@@ -1,0 +1,51 @@
+{
+  "user": "sunshine0ray@gmail.com",
+  "pass": "199129Doom",
+  "drag1": {
+	"name": "t95",
+    "x": 747,
+    "y": 586,
+    "dx": 66.0,
+    "dy": 85.0
+  },
+  "drag2": {
+    "name": "t97",
+    "x": 933,
+    "y": 584,
+    "dx": 66.0,
+    "dy": 85.0
+  },
+  "drag1_backup": {
+    "name": "star",
+    "x": 367,
+    "y": 902,
+    "dx": 69.0,
+    "dy": 100.0
+  },
+  "drag2_backup": {
+    "name": "t97",
+    "x": 369,
+    "y": 583,
+    "dx": 69.0,
+    "dy": 100.0
+  },
+  "drag1_02": {
+    "name": "g11_2",
+    "x": 557,
+    "y": 584,
+    "dx": 69.0,
+    "dy": 100.0
+  },
+  "drag2_02": {
+    "name": "g11_1",
+    "x": 369,
+    "y": 584,
+    "dx": 69.0,
+    "dy": 100.0
+  },
+  "retreats_02": [ 8, 5, 2 ],
+  "special_repair":  false,
+  "notes": "the offsets should be 0 if setting more stuff",
+  "global_x_offset": 0,
+  "global_y_offset": 0
+}
